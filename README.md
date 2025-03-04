@@ -23,4 +23,4 @@ Fill an n x n board while ensuring that:
 - Get a daily chance to spin the wheel and win rewards!  
 
 🚀 It is the first-ever application in the worlds — experience the challenge now!  
-📲 Available on Google Play![https://play.google.com/store/apps/details?id=com.app.game.strimko]
+📲 Available on [Google Play](https://play.google.com/store/apps/details?id=com.app.game.strimko)!
